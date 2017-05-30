@@ -1,0 +1,15 @@
+{
+  "name": "servidormicomida.com",
+  "version": "1.0.0",
+  "description": "red social de recetas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JS&MLCreations",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.10.3"
+  }
+}
